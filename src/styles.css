@@ -13,3 +13,7 @@
     height: 100px;
     overflow: hidden;
 }
+
+.card-score {
+  border: 1px black;
+}

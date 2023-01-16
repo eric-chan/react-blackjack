@@ -5,15 +5,28 @@
 
 .card {
     padding: 10px;
-    margin: 12px;
+    margin: 8px;
     border: 1px solid black;
     background-color: white;
     border-radius: 10px;
-    width: 50px;
+    width: 62px;
     height: 100px;
     overflow: hidden;
 }
 
 .card-score {
   border: 1px black;
+}
+
+.action-button {
+  margin: 5px;
+}
+
+.header {
+  text-align: left;
+  font-size: 1.5rem; 
+}
+
+.card-game {
+  margin-top: 2rem;
 }
